@@ -1,5 +1,7 @@
 // import { User } from "./components/User"
 
+import "./App.css"
+
 export const App = () => {
   return (
     <>
